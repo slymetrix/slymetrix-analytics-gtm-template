@@ -1,0 +1,5 @@
+homepage: "https://analytics.slymetrix.com"
+documentation: "https://analytics.slymetrix.com/documentation"
+versions:
+  - sha: 779df6048cf3fc0112585fe9a68edc01b33b06db
+    changeNotes: Initial release.
