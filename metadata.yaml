@@ -1,5 +1,5 @@
 homepage: "https://analytics.slymetrix.com"
-documentation: "https://analytics.slymetrix.com/documentation"
+documentation: "https://support.slymetrix.com/045429-Importazione-del-template-Slymetrix-su-Google-Tag-Manager-GTM"
 versions:
   - sha: 779df6048cf3fc0112585fe9a68edc01b33b06db
     changeNotes: Initial release.
